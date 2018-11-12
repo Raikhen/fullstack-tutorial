@@ -13,7 +13,7 @@
     "graphql-tag": "^2.10.0",
     "polished": "^2.3.0",
     "react": "^16.5.2",
-    "react-apollo": "alpha",
+    "react-apollo": "^2.3.0-alpha.0",
     "react-dom": "^16.5.2",
     "react-emotion": "^9.2.12",
     "react-scripts": "2.0.4"
