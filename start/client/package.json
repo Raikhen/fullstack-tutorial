@@ -4,8 +4,9 @@
   "private": true,
   "dependencies": {
     "@reach/router": "^1.2.1",
-    "apollo-cache-inmemory": "alpha",
+    "apollo-cache-inmemory": "^1.4.0-alpha.1",
     "apollo-client": "alpha",
+    "apollo-link": "^1.2.3",
     "apollo-link-http": "^1.5.5",
     "emotion": "^9.2.12",
     "graphql": "^14.0.2",
